@@ -1,2 +1,2 @@
-# https://replit.com/join/vbpjhlzjte-egornovozhilov
+# Egos
 My portfolio
